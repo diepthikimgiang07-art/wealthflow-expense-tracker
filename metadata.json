@@ -1,0 +1,6 @@
+{
+  "name": "WealthFlow Expense Tracker",
+  "description": "A cozy, elegant, and highly functional personal expense tracker with soft pastel pink and warm beige aesthetic styles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
